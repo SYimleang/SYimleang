@@ -1,16 +1,25 @@
 ### Hi there 👋
 
+I'm Sasawat,
+- 🔭 I’m currently studying at Seneca College
+- 🌱 I’m currently learning C, C++, C#
+  
+**Languages and Tools:**
+<img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="50" height="50"/>
+<img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="cplusplus" width="50" height="50"/>
+<img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="50" height="50"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="50" height="50"/>
+<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50" height="50"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="50" height="50"/>
+<img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
+
+<p align="center">
+ <img height='180px' src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&theme=great-gatsby" alt="hpoyraz" />
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husna-POYRAZ&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
+
+**Find me:**
+<a href="https://www.linkedin.com/in/sasawat-yimleang-564620155/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/></a>
 <!--
 **SYimleang/SYimleang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
