@@ -5,6 +5,7 @@ I'm Sasawat,
 - 🌱 I’m currently learning C, C++, C#
   
 **Languages and Tools:**
+<br>
 <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="50" height="50"/>
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="cplusplus" width="50" height="50"/>
 <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="50" height="50"/>
@@ -19,6 +20,7 @@ I'm Sasawat,
 </p>
 
 **Find me:**
+<br>
 <a href="https://www.linkedin.com/in/sasawat-yimleang-564620155/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/></a>
 <!--
 **SYimleang/SYimleang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
