@@ -15,8 +15,8 @@ I'm Sasawat,
 <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
 
 <p align="center">
- <img height='180px' src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&theme=great-gatsby" alt="hpoyraz" />
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYimleang&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img height='180px' src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&theme=great-gatsby" alt="hpoyraz">
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYimleang&hide_title=false&layout=compact&theme=gotham&count_private=true">
 </p>
 
 **Find me:**
