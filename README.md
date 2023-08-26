@@ -14,9 +14,10 @@ I'm Sasawat,
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="50" height="50"/>
 <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
 </p>
+
 <p align="center">
- <img height='180px' src="https://github-readme-stats.vercel.app/api?username=SYimleang&show_icons=true&theme=great-gatsby" alt="syimleang_github_stat" />
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYimleang&hide_title=false&layout=compact&theme=gotham&count_private=true" syimleang_github_lang/>
+<img height='180px' src="https://github-readme-stats.vercel.app/api?username=SYimleang&show_icons=true&theme=great-gatsby" alt="syimleang_github_stat" />
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYimleang&hide_title=false&layout=compact&theme=gotham&count_private=true" syimleang_github_lang />
 </p>
 
 **Find me:**
