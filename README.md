@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Sasawat,
+<br>
+<!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
 - 🔭 I’m currently studying at Seneca College
 - 🌱 I’m currently learning C, C++, C#
   
