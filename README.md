@@ -15,10 +15,14 @@ I'm Sasawat,
 <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
 </p>
 
-<p align="center">
-<img height='180px' src="https://github-readme-stats.vercel.app/api?username=SYimleang&show_icons=true&theme=great-gatsby" alt="syimleang_github_stat" />
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYimleang&hide_title=false&layout=compact&theme=gotham&count_private=true" syimleang_github_lang />
-</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYimleang&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYimleang&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SYimleang&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYimleang&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYimleang&theme=tokyonight)
+
+
 
 **Find me:**
 <br>
