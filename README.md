@@ -17,13 +17,17 @@ I'm Sasawat,
 <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
 </p>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYimleang&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYimleang&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SYimleang&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYimleang&theme=tokyonight&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYimleang&theme=tokyonight)
-
+<p align="left">
+  <img height=244 align="center" src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYimleang&theme=tokyonight />
+</p>
+<p align="left">
+<a href="https://github.com/SYimleang/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SYimleang&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/SYimleang/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SYimleang&hide_border=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+  </p>
 
 
 **Find me:**
