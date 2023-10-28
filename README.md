@@ -4,9 +4,10 @@ I'm Sasawat,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
 - 🔭 I’m currently studying at Seneca College
-- 🌱 I’m currently learning C, C++, C#, JavaScript
+- 🌱 I’m currently learning C++, C#, JavaScript
   
 **Languages and Tools:**
+<!--
 <p align="left">
 <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="50" height="50"/>
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="cplusplus" width="50" height="50"/>
@@ -15,7 +16,24 @@ I'm Sasawat,
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50" height="50"/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="50" height="50"/>
 <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
+<p align="left">
+-->
+
 </p>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,express,nodejs,tailwind,netlify" />
+    <br>
+    <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+  </a>
+</p>
+
 
 <p align="left">
   <img height=232 align="center" src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYimleang&theme=tokyonight />
