@@ -28,7 +28,7 @@ I'm Sasawat,
     <img src="https://skillicons.dev/icons?i=git,express,nodejs,tailwind,netlify" />
     <br>
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
     <br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
   </a>
