@@ -4,8 +4,8 @@ I'm Sasawat,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
 - 🔭 I’m currently studying at Seneca College
-- 🌱 I’m currently learning C++, JavaScript
-- 🌱 Currently practicing MongoDB, PostgreSQL, Oracle, express, node.js and tailwind
+- 🌱 I’m currently learning JavaScript
+- 🌱 Currently practicing MongoDB, PostgreSQL, express, node.js, React and MUI
   
 **Languages and Tools:**
 <!--
@@ -26,12 +26,14 @@ I'm Sasawat,
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,express,nodejs,tailwind,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=git,express,nodejs,react,tailwind,netlify,postman" />
     <br>
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
     <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
     <br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=azure" />
   </a>
 </p>
 
