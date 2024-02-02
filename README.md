@@ -31,7 +31,7 @@ I'm Sasawat,
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
     <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
     <br>
     <img src="https://skillicons.dev/icons?i=azure" />
   </a>
