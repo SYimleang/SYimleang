@@ -4,8 +4,8 @@ I'm Sasawat,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
 - 🔭 I’m currently studying at Seneca College
-- 🌱 I’m currently learning JavaScript
-- 🌱 Currently practicing MongoDB, PostgreSQL, express, node.js, React and MUI
+- 🌱 I’m currently learning JavaScript and ReactJS
+- 🌱 Currently practicing MongoDB, PostgreSQL, express, node.js and MUI
   
 **Languages and Tools:**
 <!--
