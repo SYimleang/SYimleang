@@ -26,14 +26,14 @@ I'm Sasawat,
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,express,nodejs,react,tailwind,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=git,express,nodejs,react,tailwind,postman" />
     <br>
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
     <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
     <br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=azure,netlify" />
   </a>
 </p>
 
