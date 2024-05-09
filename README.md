@@ -35,7 +35,7 @@ I'm Sasawat,
     <br>
     <img src="https://skillicons.dev/icons?i=azure,netlify" />
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,replit" />
   </a>
 </p>
 
