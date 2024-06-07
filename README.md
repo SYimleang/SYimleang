@@ -26,7 +26,7 @@ I'm Sasawat,
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,nodejs,express,react" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,express,react,nextjs" />
     <br>
     <img src="https://skillicons.dev/icons?i=tailwind,materialui,postman" />
     <br>
