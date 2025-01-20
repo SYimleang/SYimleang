@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Sasawat,
 <br>
@@ -39,10 +39,12 @@ I'm Sasawat,
   </a>
 </p>
 
-
+## Contribution graph
 <p align="left">
   <img height=232 align="center" src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYimleang&theme=tokyonight />
 </p>
+
+## 📊 Statistics
 <p align="left">
 <a href="https://github.com/SYimleang/github-readme-stats">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=SYimleang&hide_border=true&theme=tokyonight" />
@@ -52,10 +54,20 @@ I'm Sasawat,
 </a>
   </p>
 
+<!--
+**SYimleang/SYimleang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+## 🎓 Certificates & Trainings
+
+<!--START_SECTION:badges-->
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/SasawatYimleang-8842/E269FD295D72E38B?sharingId=DE8289F60145A740")
+[![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](https://www.credly.com/badges/1e9e326a-ce6c-48c1-8435-ec6f6e359f09/public_url")
+[![Fundamentals of Predictive Project Management](https://images.credly.com/size/110x110/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png)](https://www.credly.com/badges/d5fb8105-0a56-4331-8482-9c678a40a3f1/public_url")
+<!--END_SECTION:badges-->
+
+Find all my badges on [Credly.com](https://www.credly.com/users/sasawat-yimleang/badges).
 
 **Find me:**
 <br>
 <a href="https://www.linkedin.com/in/sasawat-yimleang-564620155/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/></a>
-<!--
-**SYimleang/SYimleang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
