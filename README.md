@@ -3,9 +3,9 @@
 I'm Sasawat,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
-- 🔭 I’m currently studying at Seneca College
-- 🌱 I’m currently learning NextJS
-- 🌱 Currently practicing MongoDB, PostgreSQL, Express.JS, React, Next.JS 
+- 🔭 I’m currently studying at Seneca Polytechnic
+- 🌱 I’m currently learning Java, AWS Services
+- 🌱 Currently practicing Express.JS
   
 **Languages and Tools:**
 <!--
