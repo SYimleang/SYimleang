@@ -24,7 +24,7 @@ I'm Sasawat,
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,nodejs,express,react,nextjs" />
     <br>
@@ -33,7 +33,7 @@ I'm Sasawat,
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
     <br>
-    <img src="https://skillicons.dev/icons?i=azure,netlify,render" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,netlify" />
     <br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,replit" />
   </a>
