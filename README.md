@@ -4,8 +4,8 @@ I'm Sasawat,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
 - 🔭 I’m currently studying at Seneca Polytechnic
-- 🌱 I’m currently learning Java, AWS Services
-- 🌱 Currently practicing Express.JS
+- 🌱 I’m currently learning Java, AWS Services, AndroidStudio
+<!-- - 🌱 Currently practicing Express.JS -->
   
 **Languages and Tools:**
 <!--
@@ -35,7 +35,7 @@ I'm Sasawat,
     <br>
     <img src="https://skillicons.dev/icons?i=azure,aws,netlify" />
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,replit" />
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,replit,androidstudio" />
   </a>
 </p>
 
