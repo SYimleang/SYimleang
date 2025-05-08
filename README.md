@@ -4,7 +4,7 @@ I'm Sasawat,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
 - 🔭 I’m currently studying at Seneca Polytechnic
-- 🌱 I’m currently learning Java, AWS Services, AndroidStudio
+- 🌱 I’m currently learning TypeScript, IOS Development, IBM DB2
 <!-- - 🌱 Currently practicing Express.JS -->
   
 **Languages and Tools:**
@@ -24,7 +24,7 @@ I'm Sasawat,
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,py" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,nodejs,express,react,nextjs" />
     <br>
@@ -33,9 +33,11 @@ I'm Sasawat,
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
     <br>
-    <img src="https://skillicons.dev/icons?i=azure,aws,netlify" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,replit,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,aws,netlify" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,idea,replit,androidstudio" />
   </a>
 </p>
 
