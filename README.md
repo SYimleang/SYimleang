@@ -1,13 +1,17 @@
-## Hi there 👋
-
-I'm Sasawat,
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SYimleang" />
+<h1 align="center" hright="70px"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00B4D8&size=40&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+This+is+Sasawat+Yimleang!;" /></h1>
 <br>
+
 <!--![](https://komarev.com/ghpvc/?username=SYimleang)-->
-- 🔭 I’m currently studying at Seneca Polytechnic
-- 🌱 I’m currently learning TypeScript, IOS Development, IBM DB2
+- 🔭 I’m studying in the 6th semester at **Seneca Polytechnic**
+- 🌱 I’m currently learning **TypeScript**, **IOS Development**, **IBM DB2**
 <!-- - 🌱 Currently practicing Express.JS -->
+
+## Current Project
+- **Queneca:** Restaurant Waitlist application (TypeScript, Next.JS, ExpressJS, MongoDB)
+- **WAA Extension (Web Accessibility Audit):** Web Browser Extension for Audit Web page follows WCAG 2.1 (TypeScript, Vite)
   
-**Languages and Tools:**
+## Languages and Tools:
 <!--
 <p align="left">
 <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="50" height="50"/>
@@ -24,7 +28,7 @@ I'm Sasawat,
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,py,kotlin,swift" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,nodejs,express,react,nextjs" />
     <br>
@@ -41,7 +45,7 @@ I'm Sasawat,
   </a>
 </p>
 
-## Contribution graph
+## Contribution Graphs
 <p align="left">
   <img height=232 align="center" src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYimleang&theme=tokyonight />
 </p>
