@@ -53,7 +53,7 @@
 ## 📊 Statistics
 <p align="left">
 <a href="https://github.com/SYimleang/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats-wheat-iota-56.vercel.app/api?username=SYimleang&hide_border=true&theme=tokyonight" />
+  <img height=190 align="center" src="https://github-readme-stats-wheat-iota-56.vercel.app/api?username=SYimleang&hide_border=true&card_width=400&theme=tokyonight" />
 </a>
 <a href="https://github.com/SYimleang/convoychat">
   <img height=190 align="center" src="https://github-readme-stats-wheat-iota-56.vercel.app/api/top-langs?username=SYimleang&hide_border=true&layout=compact&langs_count=9&card_width=350&theme=tokyonight&cache_bust=1" />
