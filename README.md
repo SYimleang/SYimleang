@@ -56,7 +56,7 @@
   <img height=190 align="center" src="https://github-readme-stats-wheat-iota-56.vercel.app/api?username=SYimleang&hide_border=true&card_width=400&theme=tokyonight" />
 </a>
 <a href="https://github.com/SYimleang/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats-wheat-iota-56.vercel.app/api/top-langs?username=SYimleang&hide_border=true&layout=compact&langs_count=9&card_width=350&theme=tokyonight&cache_bust=1" />
+  <img height=190 align="center" src="https://github-readme-stats-wheat-iota-56.vercel.app/api/top-langs?username=SYimleang&hide_border=true&layout=compact&langs_count=6&card_width=350&theme=tokyonight&cache_bust=1" />
 </a>
   </p>
 
